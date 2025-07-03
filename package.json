@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-message-scheduler",
+  "version": "1.0.0",
+  "description": "A bot to schedule WhatsApp messages using JS with JSDoc.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.18",
+    "chalk": "^4.1.2",
+    "node-schedule": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
