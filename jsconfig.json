@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "checkJs": true, // The magic key to enable type-checking!
+    "resolveJsonModule": true
+  },
+  "include": ["src/**/*"]
+}
