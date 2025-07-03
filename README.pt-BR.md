@@ -37,7 +37,7 @@ Siga estes passos para deixar sua instância do bot pronta para rodar.
 
 **2. Clone o Repositório**
 ```bash
-git clone [https://github.com/SEU_USUARIO/whatsapp-message-scheduler.git](https://github.com/SEU_USUARIO/whatsapp-message-scheduler.git)
+git clone [https://github.com/fxliperibeiro/whatsapp-message-scheduler.git](https://github.com/fxliperibeiro/whatsapp-message-scheduler.git)
 cd whatsapp-message-scheduler
 ````
 

@@ -37,7 +37,7 @@ Follow these steps to get your instance of the bot up and running.
 
 **2. Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/whatsapp-message-scheduler.git](https://github.com/YOUR_USERNAME/whatsapp-message-scheduler.git)
+git clone [https://github.com/fxliperibeiro/whatsapp-message-scheduler.git](https://github.com/fxliperibeiro/whatsapp-message-scheduler.git)
 cd whatsapp-message-scheduler
 ````
 
@@ -104,8 +104,4 @@ On the first run, a QR code will appear in your terminal. Scan it using the What
 
 ### 📜 License
 
-Distributed under the MIT License.
-
-
-```
-```
+Distributed under the MIT License.enhance the README file
